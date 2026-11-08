@@ -100,25 +100,23 @@ Academic projects focused on relational database design and desktop application 
 
 ---
 
+
 ## ୨୧ Experience & Activities
 
-**✦ Programming & Database Instructor**
-
-PUB Scholarship Program
+### ✦ Programming & Database Instructor
+**PUB Scholarship Program**
 
 - Teaching foundational C programming concepts
 - Introducing database fundamentals
 - Supporting students in practical learning activities
 
-**✦ Vice Head of Education Division**
+### ✦ Former Vice Head of Education Division
+**PUB | 2025–2026**
 
-PUB
+- Assisted in coordinating educational programs and activities
+- Collaborated with team members to support learning initiatives
+- Developed leadership, teamwork, and organizational skills
 
-- Supporting educational programs and activities
-- Collaborating with team members
-- Developing communication and leadership skills
-
----
 
 ## ୨୧ GitHub Statistics
 
